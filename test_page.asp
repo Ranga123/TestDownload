@@ -1,0 +1,1 @@
+<% Response.write "This is New Page" %>
